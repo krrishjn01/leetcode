@@ -9,6 +9,5 @@ class Solution:
             for j in range(len(nums)):
                 if (nums[j]<nums[i]):
                     count += 1
-
             ans.append(count) 
         return ans
