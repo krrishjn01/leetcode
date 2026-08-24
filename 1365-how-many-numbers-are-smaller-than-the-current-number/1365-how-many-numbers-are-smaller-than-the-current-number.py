@@ -10,6 +10,5 @@ class Solution:
                 if (nums[j]<nums[i]):
                     count += 1
 
-            ans.append(count)
-            
+            ans.append(count) 
         return ans
