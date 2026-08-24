@@ -6,6 +6,7 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krrishjn01/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/krrishjn01/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/krrishjn01/leetcode/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/krrishjn01/leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/krrishjn01/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/krrishjn01/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krrishjn01/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/krrishjn01/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/krrishjn01/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krrishjn01/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [1436-destination-city](https://github.com/krrishjn01/leetcode/tree/master/1436-destination-city) |
 <!---LeetCode Topics End-->
