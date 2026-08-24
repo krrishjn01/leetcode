@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/krrishjn01/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krrishjn01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krrishjn01/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/krrishjn01/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/krrishjn01/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krrishjn01/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/krrishjn01/leetcode/tree/master/1436-destination-city) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/krrishjn01/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
