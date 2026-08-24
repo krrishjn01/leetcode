@@ -1,6 +1,6 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        answer = []
+        ans = []
     
         
         for i in nums:
@@ -9,5 +9,5 @@ class Solution:
             for j in nums:
                 if j<i:
                     count += 1
-            answer.append(count)
-        return answer
+            ans.append(count)
+        return ans
