@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/krrishjn01/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/krrishjn01/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krrishjn01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krrishjn01/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -70,5 +71,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/krrishjn01/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/krrishjn01/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
