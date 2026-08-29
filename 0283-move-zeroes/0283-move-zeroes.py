@@ -3,8 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        count = nums.count(0)
-        for i in range (count):
-            nums.remove(0)
-        for i in range (count):
-            nums.append(0)
+        ans = []
+        count = 0
+
+        for i in nums:
+            if i == 0:
+                count += 1
+            else:
+                ans.append(i)
+
+        for i in range(count):
+            ans.append(0)
+        
+        nums[:] = ans
