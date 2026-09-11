@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/krrishjn01/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/krrishjn01/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/krrishjn01/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/krrishjn01/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -76,4 +77,8 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/krrishjn01/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/krrishjn01/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/krrishjn01/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
