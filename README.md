@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/krrishjn01/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/krrishjn01/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/krrishjn01/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krrishjn01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -35,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/krrishjn01/leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krrishjn01/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/krrishjn01/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/krrishjn01/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -58,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/krrishjn01/leetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/krrishjn01/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krrishjn01/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
