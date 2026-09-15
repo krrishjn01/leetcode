@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krrishjn01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krrishjn01/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/krrishjn01/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/krrishjn01/leetcode/tree/master/0283-move-zeroes) |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/krrishjn01/leetcode/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krrishjn01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
