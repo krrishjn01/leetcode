@@ -14,5 +14,4 @@ class Solution:
 
         return profit
 
-        return max_profit
         
