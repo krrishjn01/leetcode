@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krrishjn01/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krrishjn01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krrishjn01/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/krrishjn01/leetcode/tree/master/0217-contains-duplicate) |
@@ -38,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krrishjn01/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/krrishjn01/leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krrishjn01/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/krrishjn01/leetcode/tree/master/1436-destination-city) |
