@@ -41,6 +41,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/krrishjn01/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/krrishjn01/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/krrishjn01/leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krrishjn01/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/krrishjn01/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/krrishjn01/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/krrishjn01/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/krrishjn01/leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/krrishjn01/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krrishjn01/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/krrishjn01/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/krrishjn01/leetcode/tree/master/0242-valid-anagram) |
 | [1436-destination-city](https://github.com/krrishjn01/leetcode/tree/master/1436-destination-city) |
 ## Two Pointers
 |  |
